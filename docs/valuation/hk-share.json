@@ -3,196 +3,196 @@
     "symbol": "00001",
     "market": "HK",
     "name": "长和",
-    "pe": 6.79,
+    "pe": 6.72,
     "pb": 0.44,
     "roe": 4.6967757312,
-    "dividendYield": 6.79,
-    "marketCap": 2566.13,
+    "dividendYield": 6.72,
+    "marketCap": 2541.23,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00002",
     "market": "HK",
     "name": "中电控股",
-    "pe": 18.18,
-    "pb": 1.78,
+    "pe": 17.87,
+    "pb": 1.75,
     "roe": 5.5000183426,
-    "dividendYield": 18.18,
-    "marketCap": 1970.63,
+    "dividendYield": 17.87,
+    "marketCap": 1937.79,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00003",
     "market": "HK",
     "name": "香港中华煤气",
-    "pe": 21.17,
+    "pe": 21.18,
     "pb": 2.24,
     "roe": 6.0920679946,
-    "dividendYield": 21.17,
-    "marketCap": 1347.24,
+    "dividendYield": 21.18,
+    "marketCap": 1348.18,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00004",
     "market": "HK",
     "name": "九龙仓集团",
-    "pe": -134.69,
+    "pe": -133.99,
     "pb": 0.4,
     "roe": 0.0327246324,
-    "dividendYield": -134.69,
-    "marketCap": 588.59,
+    "dividendYield": -133.99,
+    "marketCap": 585.53,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00005",
     "market": "HK",
     "name": "汇丰控股",
-    "pe": 13.69,
-    "pb": 1.91,
+    "pe": 13.45,
+    "pb": 1.87,
     "roe": 7.4073136207,
-    "dividendYield": 13.69,
-    "marketCap": 25822.48,
+    "dividendYield": 13.45,
+    "marketCap": 25359.83,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00006",
     "market": "HK",
     "name": "电能实业",
-    "pe": 7.25,
-    "pb": 1.26,
+    "pe": 7.17,
+    "pb": 1.24,
     "roe": 15.170101364399999,
-    "dividendYield": 7.25,
-    "marketCap": 1297.84,
+    "dividendYield": 7.17,
+    "marketCap": 1282.93,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00008",
     "market": "HK",
     "name": "电讯盈科",
-    "pe": -475.47,
-    "pb": -9.49,
+    "pe": -475.93,
+    "pb": -9.5,
     "roe": 8.9421675036,
-    "dividendYield": -475.47,
-    "marketCap": 399.4,
+    "dividendYield": -475.93,
+    "marketCap": 399.78,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00010",
     "market": "HK",
     "name": "恒隆集团",
-    "pe": 11.75,
+    "pe": 11.51,
     "pb": 0.16,
     "roe": 0.7416244159,
-    "dividendYield": 11.75,
-    "marketCap": 166.66,
+    "dividendYield": 11.51,
+    "marketCap": 163.39,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00012",
     "market": "HK",
     "name": "恒基地产",
-    "pe": 19.17,
+    "pe": 19.11,
     "pb": 0.4,
     "roe": 1.2623086669,
-    "dividendYield": 19.17,
-    "marketCap": 1310.08,
+    "dividendYield": 19.11,
+    "marketCap": 1306.21,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00013",
     "market": "HK",
     "name": "和黄医药",
-    "pe": 168.95,
-    "pb": 1.87,
+    "pe": 171.03,
+    "pb": 1.89,
     "roe": 1.2749019291,
-    "dividendYield": 168.95,
-    "marketCap": 184.59,
+    "dividendYield": 171.03,
+    "marketCap": 186.85,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00014",
     "market": "HK",
     "name": "希慎兴业",
-    "pe": 52.33,
+    "pe": 52.73,
     "pb": 0.25,
     "roe": 0.11166775019999998,
-    "dividendYield": 52.33,
-    "marketCap": 163.81,
+    "dividendYield": 52.73,
+    "marketCap": 165.04,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00016",
     "market": "HK",
     "name": "新鸿基地产",
-    "pe": 14.84,
-    "pb": 0.5,
+    "pe": 14.53,
+    "pb": 0.49,
     "roe": 3.4232660988,
-    "dividendYield": 14.84,
-    "marketCap": 3178.86,
+    "dividendYield": 14.53,
+    "marketCap": 3112.22,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00017",
     "market": "HK",
     "name": "新世界发展",
-    "pe": -0.46,
-    "pb": 0.09,
+    "pe": -0.45,
+    "pb": 0.08,
     "roe": -17.9604311325,
-    "dividendYield": -0.46,
-    "marketCap": 130.61,
+    "dividendYield": -0.45,
+    "marketCap": 127.09,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00018",
     "market": "HK",
     "name": "东方传媒集团",
-    "pe": 37.54,
+    "pe": 37.36,
     "pb": 0.3,
     "roe": 0.8037215238000001,
-    "dividendYield": 37.54,
-    "marketCap": 5.01,
+    "dividendYield": 37.36,
+    "marketCap": 4.99,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00019",
     "market": "HK",
     "name": "太古股份公司A",
-    "pe": 9.15,
-    "pb": 0.31,
+    "pe": 8.94,
+    "pb": 0.3,
     "roe": 2.5742781353999997,
-    "dividendYield": 9.15,
-    "marketCap": 813.26,
+    "dividendYield": 8.94,
+    "marketCap": 794.57,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00020",
@@ -205,46 +205,46 @@
     "marketCap": 502.38,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00021",
     "market": "HK",
     "name": "大中华控股",
-    "pe": -2.16,
-    "pb": 0.5,
+    "pe": -2.13,
+    "pb": 0.49,
     "roe": -6.3153722179,
-    "dividendYield": -2.16,
-    "marketCap": 3.1,
+    "dividendYield": -2.13,
+    "marketCap": 3.06,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00022",
     "market": "HK",
     "name": "茂盛控股",
-    "pe": 0.24,
-    "pb": 17.49,
+    "pe": 0.23,
+    "pb": 16.9,
     "roe": 124.1714637749,
-    "dividendYield": 0.24,
-    "marketCap": 0.88,
+    "dividendYield": 0.23,
+    "marketCap": 0.85,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00023",
     "market": "HK",
     "name": "东亚银行",
-    "pe": 14.01,
-    "pb": 0.46,
+    "pe": 13.76,
+    "pb": 0.45,
     "roe": 2.2734971957999996,
-    "dividendYield": 14.01,
-    "marketCap": 491.59,
+    "dividendYield": 13.76,
+    "marketCap": 482.83,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00025",
@@ -257,7 +257,7 @@
     "marketCap": 13.62,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00026",
@@ -270,85 +270,85 @@
     "marketCap": 26.16,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00027",
     "market": "HK",
     "name": "银河娱乐",
-    "pe": 13.38,
-    "pb": 1.69,
+    "pe": 13.51,
+    "pb": 1.71,
     "roe": 6.2950651365,
-    "dividendYield": 13.38,
-    "marketCap": 1433.76,
+    "dividendYield": 13.51,
+    "marketCap": 1447.78,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00028",
     "market": "HK",
     "name": "天安",
-    "pe": -4.59,
+    "pe": -4.52,
     "pb": 0.16,
     "roe": -1.5511206139,
-    "dividendYield": -4.59,
-    "marketCap": 46.91,
+    "dividendYield": -4.52,
+    "marketCap": 46.18,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00029",
     "market": "HK",
     "name": "达力集团",
-    "pe": -33.47,
+    "pe": -34.16,
     "pb": 0.28,
     "roe": -0.8485598458,
-    "dividendYield": -33.47,
-    "marketCap": 21.13,
+    "dividendYield": -34.16,
+    "marketCap": 21.57,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00030",
     "market": "HK",
     "name": "云白国际",
-    "pe": 405.45,
-    "pb": 5.62,
+    "pe": 415.06,
+    "pb": 5.75,
     "roe": 0.7520478449,
-    "dividendYield": 405.45,
-    "marketCap": 19.85,
+    "dividendYield": 415.06,
+    "marketCap": 20.32,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00031",
     "market": "HK",
     "name": "航天控股",
-    "pe": -6.19,
+    "pe": -6.12,
     "pb": 0.18,
     "roe": -1.3107987996,
-    "dividendYield": -6.19,
-    "marketCap": 13.57,
+    "dividendYield": -6.12,
+    "marketCap": 13.42,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00032",
     "market": "HK",
     "name": "港通控股",
-    "pe": 4.16,
+    "pe": 4.1,
     "pb": 0.3,
     "roe": 4.9233214493999995,
-    "dividendYield": 4.16,
-    "marketCap": 25.34,
+    "dividendYield": 4.1,
+    "marketCap": 24.97,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00033",
@@ -361,33 +361,33 @@
     "marketCap": 2.23,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00034",
     "market": "HK",
     "name": "九龙建业",
-    "pe": 42.13,
-    "pb": 0.33,
+    "pe": 41.8,
+    "pb": 0.32,
     "roe": 0.745764884,
-    "dividendYield": 42.13,
-    "marketCap": 57.6,
+    "dividendYield": 41.8,
+    "marketCap": 57.15,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00035",
     "market": "HK",
     "name": "远东发展",
-    "pe": -1.58,
-    "pb": 0.2,
+    "pe": -1.63,
+    "pb": 0.21,
     "roe": -12.4547028861,
-    "dividendYield": -1.58,
-    "marketCap": 19.12,
+    "dividendYield": -1.63,
+    "marketCap": 19.73,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00036",
@@ -400,7 +400,7 @@
     "marketCap": 0.9,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00037",
@@ -413,20 +413,20 @@
     "marketCap": 3.54,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00038",
     "market": "HK",
     "name": "第一拖拉机股份",
-    "pe": 9.6,
-    "pb": 0.97,
+    "pe": 9.43,
+    "pb": 0.95,
     "roe": 9.8517722902,
-    "dividendYield": 9.6,
-    "marketCap": 91.8,
+    "dividendYield": 9.43,
+    "marketCap": 90.23,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00039",
@@ -439,7 +439,7 @@
     "marketCap": 3.62,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00040",
@@ -452,59 +452,59 @@
     "marketCap": 6.05,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00041",
     "market": "HK",
     "name": "鹰君",
-    "pe": -38.42,
+    "pe": -38.45,
     "pb": 0.2,
     "roe": 0.6278976855,
-    "dividendYield": -38.42,
-    "marketCap": 104.22,
+    "dividendYield": -38.45,
+    "marketCap": 104.29,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00042",
     "market": "HK",
     "name": "东北电气",
-    "pe": -2.16,
-    "pb": -0.6,
+    "pe": -2.03,
+    "pb": -0.57,
     "roe": 0.7412538162,
-    "dividendYield": -2.16,
-    "marketCap": 1.9,
+    "dividendYield": -2.03,
+    "marketCap": 1.79,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00045",
     "market": "HK",
     "name": "大酒店",
-    "pe": 13.31,
+    "pe": 13.32,
     "pb": 0.23,
     "roe": 0.06351924219999999,
-    "dividendYield": 13.31,
-    "marketCap": 84.1,
+    "dividendYield": 13.32,
+    "marketCap": 84.18,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00046",
     "market": "HK",
     "name": "科联系统",
-    "pe": 13.7,
-    "pb": 0.58,
+    "pe": 13.47,
+    "pb": 0.57,
     "roe": 4.3291173299,
-    "dividendYield": 13.7,
-    "marketCap": 2.93,
+    "dividendYield": 13.47,
+    "marketCap": 2.88,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00048",
@@ -517,33 +517,33 @@
     "marketCap": 1.64,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00050",
     "market": "HK",
     "name": "香港小轮(集团)",
-    "pe": 5.71,
+    "pe": 5.74,
     "pb": 0.23,
     "roe": 1.0882452999,
-    "dividendYield": 5.71,
-    "marketCap": 16.74,
+    "dividendYield": 5.74,
+    "marketCap": 16.83,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00051",
     "market": "HK",
     "name": "海港企业",
-    "pe": -31.74,
+    "pe": -31.92,
     "pb": 0.25,
     "roe": -0.5459569227,
-    "dividendYield": -31.74,
-    "marketCap": 37.14,
+    "dividendYield": -31.92,
+    "marketCap": 37.35,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00052",
@@ -556,46 +556,46 @@
     "marketCap": 5.67,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00053",
     "market": "HK",
     "name": "国浩集团",
-    "pe": 7.18,
-    "pb": 0.33,
+    "pe": 7.15,
+    "pb": 0.32,
     "roe": 4.6046104978999995,
-    "dividendYield": 7.18,
-    "marketCap": 230.67,
+    "dividendYield": 7.15,
+    "marketCap": 229.68,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00055",
     "market": "HK",
     "name": "中星集团控股",
-    "pe": -0.35,
-    "pb": 0.05,
+    "pe": -0.4,
+    "pb": 0.06,
     "roe": -8.9737210468,
-    "dividendYield": -0.35,
-    "marketCap": 0.27,
+    "dividendYield": -0.4,
+    "marketCap": 0.31,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00057",
     "market": "HK",
     "name": "震雄集团",
-    "pe": 8.06,
+    "pe": 8.17,
     "pb": 0.29,
     "roe": 3.6993870416000005,
-    "dividendYield": 8.06,
-    "marketCap": 9.43,
+    "dividendYield": 8.17,
+    "marketCap": 9.55,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00058",
@@ -608,7 +608,7 @@
     "marketCap": 1.06,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00059",
@@ -621,20 +621,20 @@
     "marketCap": 0.84,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00060",
     "market": "HK",
     "name": "香港食品投资",
-    "pe": -7.21,
+    "pe": -7.14,
     "pb": 0.26,
     "roe": -3.5796277809,
-    "dividendYield": -7.21,
-    "marketCap": 1.33,
+    "dividendYield": -7.14,
+    "marketCap": 1.32,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00061",
@@ -647,33 +647,33 @@
     "marketCap": 0.26,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00062",
     "market": "HK",
     "name": "载通",
-    "pe": 19.57,
-    "pb": 0.27,
+    "pe": 20.7,
+    "pb": 0.28,
     "roe": 0.1475932634,
-    "dividendYield": 19.57,
-    "marketCap": 45.65,
+    "dividendYield": 20.7,
+    "marketCap": 48.28,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00063",
     "market": "HK",
     "name": "中亚烯谷集团",
-    "pe": 21.59,
-    "pb": 0.49,
+    "pe": 20.49,
+    "pb": 0.46,
     "roe": 0.6953482098,
-    "dividendYield": 21.59,
-    "marketCap": 2.48,
+    "dividendYield": 20.49,
+    "marketCap": 2.35,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00064",
@@ -686,85 +686,85 @@
     "marketCap": 23.99,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00065",
     "market": "HK",
     "name": "弘海高新资源",
-    "pe": -1.63,
-    "pb": 0.83,
+    "pe": -1.68,
+    "pb": 0.85,
     "roe": -9.3502226696,
-    "dividendYield": -1.63,
-    "marketCap": 0.83,
+    "dividendYield": -1.68,
+    "marketCap": 0.86,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00066",
     "market": "HK",
     "name": "港铁公司",
-    "pe": 8.8,
+    "pe": 8.73,
     "pb": 0.98,
     "roe": 8.0062750795,
-    "dividendYield": 8.8,
-    "marketCap": 2009.37,
+    "dividendYield": 8.73,
+    "marketCap": 1993.19,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00068",
     "market": "HK",
     "name": "群核科技",
-    "pe": -24.89,
-    "pb": 7.8,
+    "pe": -22.5,
+    "pb": 7.05,
     "roe": 9.42508775,
-    "dividendYield": -24.89,
-    "marketCap": 97.96,
+    "dividendYield": -22.5,
+    "marketCap": 88.55,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00069",
     "market": "HK",
     "name": "香格里拉(亚洲)",
-    "pe": 12.35,
+    "pe": 12.38,
     "pb": 0.33,
     "roe": 1.6658168970000002,
-    "dividendYield": 12.35,
-    "marketCap": 137.9,
+    "dividendYield": 12.38,
+    "marketCap": 138.26,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00070",
     "market": "HK",
     "name": "金粤控股",
-    "pe": -4.97,
+    "pe": -5.22,
     "pb": 0.12,
     "roe": -2.3346315537,
-    "dividendYield": -4.97,
-    "marketCap": 1.12,
+    "dividendYield": -5.22,
+    "marketCap": 1.18,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00071",
     "market": "HK",
     "name": "美丽华酒店",
-    "pe": 9.89,
+    "pe": 9.9,
     "pb": 0.32,
     "roe": 1.5565629201,
-    "dividendYield": 9.89,
-    "marketCap": 67.96,
+    "dividendYield": 9.9,
+    "marketCap": 68.02,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00072",
@@ -777,7 +777,7 @@
     "marketCap": 1.04,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00073",
@@ -790,7 +790,7 @@
     "marketCap": 1.1,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00075",
@@ -803,20 +803,20 @@
     "marketCap": 1.19,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00076",
     "market": "HK",
     "name": "谊砾控股",
-    "pe": 0.2,
+    "pe": 0.19,
     "pb": 0.02,
     "roe": 9.234271142199999,
-    "dividendYield": 0.2,
-    "marketCap": 0.64,
+    "dividendYield": 0.19,
+    "marketCap": 0.63,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00077",
@@ -829,111 +829,111 @@
     "marketCap": 1.36,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00078",
     "market": "HK",
     "name": "REGAL INT'L",
-    "pe": -1.09,
+    "pe": -1.06,
     "pb": 0.07,
     "roe": 2.9262239673,
-    "dividendYield": -1.09,
-    "marketCap": 4.0,
+    "dividendYield": -1.06,
+    "marketCap": 3.86,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00079",
     "market": "HK",
     "name": "世纪建业",
-    "pe": -1.09,
+    "pe": -1.06,
     "pb": 0.19,
     "roe": -8.4860013436,
-    "dividendYield": -1.09,
-    "marketCap": 0.37,
+    "dividendYield": -1.06,
+    "marketCap": 0.36,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00080",
     "market": "HK",
     "name": "CAI控股",
-    "pe": -7.36,
-    "pb": 2.02,
+    "pe": -7.21,
+    "pb": 1.98,
     "roe": -23.1819174307,
-    "dividendYield": -7.36,
-    "marketCap": 6.52,
+    "dividendYield": -7.21,
+    "marketCap": 6.39,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00081",
     "market": "HK",
     "name": "中国海外宏洋集团",
-    "pe": 28.03,
-    "pb": 0.31,
+    "pe": 27.46,
+    "pb": 0.3,
     "roe": 1.029351943,
-    "dividendYield": 28.03,
-    "marketCap": 113.01,
+    "dividendYield": 27.46,
+    "marketCap": 110.7,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00082",
     "market": "HK",
     "name": "疯狂体育",
-    "pe": -12.55,
-    "pb": 0.54,
+    "pe": -12.4,
+    "pb": 0.53,
     "roe": -5.2498966953,
-    "dividendYield": -12.55,
-    "marketCap": 3.67,
+    "dividendYield": -12.4,
+    "marketCap": 3.62,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00083",
     "market": "HK",
     "name": "信和置业",
-    "pe": 21.87,
+    "pe": 21.93,
     "pb": 0.58,
     "roe": 2.673681512,
-    "dividendYield": 21.87,
-    "marketCap": 1003.67,
+    "dividendYield": 21.93,
+    "marketCap": 1006.54,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00084",
     "market": "HK",
     "name": "宝光实业",
-    "pe": -1.47,
+    "pe": -1.49,
     "pb": 0.08,
     "roe": -5.1867602738,
-    "dividendYield": -1.47,
-    "marketCap": 0.69,
+    "dividendYield": -1.49,
+    "marketCap": 0.71,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00085",
     "market": "HK",
     "name": "中电华大科技",
-    "pe": 6.91,
-    "pb": 0.56,
+    "pe": 6.96,
+    "pb": 0.57,
     "roe": 4.7404325558,
-    "dividendYield": 6.91,
-    "marketCap": 15.33,
+    "dividendYield": 6.96,
+    "marketCap": 15.43,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00086",
@@ -943,36 +943,36 @@
     "pb": 0.34,
     "roe": 3.0513188449,
     "dividendYield": 5.52,
-    "marketCap": 76.91,
+    "marketCap": 76.9,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00087",
     "market": "HK",
     "name": "太古股份公司B",
-    "pe": 4.84,
+    "pe": 4.81,
     "pb": 0.16,
     "roe": 2.5742781353999997,
-    "dividendYield": 4.84,
-    "marketCap": 430.76,
+    "dividendYield": 4.81,
+    "marketCap": 427.62,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00088",
     "market": "HK",
     "name": "TAI CHEUNG HOLD",
-    "pe": -83.23,
+    "pe": -83.65,
     "pb": 0.3,
     "roe": -0.3508995789,
-    "dividendYield": -83.23,
-    "marketCap": 18.31,
+    "dividendYield": -83.65,
+    "marketCap": 18.4,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00089",
@@ -985,7 +985,7 @@
     "marketCap": 5.32,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00090",
@@ -998,7 +998,7 @@
     "marketCap": 3.99,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00092",
@@ -1011,7 +1011,7 @@
     "marketCap": 1.28,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00093",
@@ -1024,33 +1024,33 @@
     "marketCap": 9.2,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00094",
     "market": "HK",
     "name": "绿心集团",
-    "pe": 10.11,
-    "pb": 0.31,
+    "pe": 10.44,
+    "pb": 0.32,
     "roe": -0.7656825923,
-    "dividendYield": 10.11,
-    "marketCap": 1.73,
+    "dividendYield": 10.44,
+    "marketCap": 1.78,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00095",
     "market": "HK",
     "name": "绿景中国地产",
-    "pe": -0.15,
-    "pb": 0.12,
+    "pe": -0.14,
+    "pb": 0.11,
     "roe": -5.9800595654999995,
-    "dividendYield": -0.15,
-    "marketCap": 12.73,
+    "dividendYield": -0.14,
+    "marketCap": 11.84,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00096",
@@ -1063,7 +1063,7 @@
     "marketCap": 3.37,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00097",
@@ -1076,98 +1076,98 @@
     "marketCap": 3.84,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00098",
     "market": "HK",
     "name": "兴发铝业",
-    "pe": 3.5,
+    "pe": 3.51,
     "pb": 0.29,
     "roe": 2.7197999242,
-    "dividendYield": 3.5,
-    "marketCap": 20.99,
+    "dividendYield": 3.51,
+    "marketCap": 21.05,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00099",
     "market": "HK",
     "name": "王氏国际",
-    "pe": 13.34,
+    "pe": 13.18,
     "pb": 0.16,
     "roe": 1.4466980596,
-    "dividendYield": 13.34,
-    "marketCap": 5.84,
+    "dividendYield": 13.18,
+    "marketCap": 5.77,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00100",
     "market": "HK",
     "name": "MINIMAX-W",
-    "pe": -5.26,
-    "pb": 6.3,
+    "pe": -5.06,
+    "pb": 6.06,
     "roe": 55.0126891365,
-    "dividendYield": -5.26,
-    "marketCap": 747.26,
+    "dividendYield": -5.06,
+    "marketCap": 719.76,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00101",
     "market": "HK",
     "name": "恒隆地产",
-    "pe": 20.65,
-    "pb": 0.25,
+    "pe": 20.06,
+    "pb": 0.24,
     "roe": 0.5547160007999999,
-    "dividendYield": 20.65,
-    "marketCap": 341.06,
+    "dividendYield": 20.06,
+    "marketCap": 331.44,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00103",
     "market": "HK",
     "name": "首佳科技",
-    "pe": 24.79,
-    "pb": 0.44,
+    "pe": 23.38,
+    "pb": 0.42,
     "roe": 0.5216589145,
-    "dividendYield": 24.79,
-    "marketCap": 8.58,
+    "dividendYield": 23.38,
+    "marketCap": 8.09,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00104",
     "market": "HK",
     "name": "ASIA COMM HOLD",
-    "pe": 4.17,
-    "pb": 0.35,
+    "pe": 4.11,
+    "pb": 0.34,
     "roe": 8.5977573531,
-    "dividendYield": 4.17,
-    "marketCap": 1.64,
+    "dividendYield": 4.11,
+    "marketCap": 1.62,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00105",
     "market": "HK",
     "name": "凯联国际酒店",
-    "pe": -3.8,
-    "pb": 0.28,
+    "pe": -3.79,
+    "pb": 0.27,
     "roe": -6.924465229,
-    "dividendYield": -3.8,
-    "marketCap": 18.04,
+    "dividendYield": -3.79,
+    "marketCap": 18.0,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00106",
@@ -1180,58 +1180,58 @@
     "marketCap": 0.9,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00107",
     "market": "HK",
     "name": "四川成渝高速公路",
-    "pe": 8.78,
-    "pb": 0.66,
+    "pe": 8.83,
+    "pb": 0.67,
     "roe": 4.2241167458,
-    "dividendYield": 8.78,
-    "marketCap": 153.21,
+    "dividendYield": 8.83,
+    "marketCap": 154.13,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00108",
     "market": "HK",
     "name": "春雨医疗",
-    "pe": -48.27,
-    "pb": 8.66,
+    "pe": -46.63,
+    "pb": 8.37,
     "roe": -3.3728958218000002,
-    "dividendYield": -48.27,
-    "marketCap": 88.02,
+    "dividendYield": -46.63,
+    "marketCap": 85.03,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00110",
     "market": "HK",
     "name": "中国长远",
-    "pe": -7.56,
-    "pb": -5.23,
+    "pe": -6.6,
+    "pb": -4.57,
     "roe": 31.3287109099,
-    "dividendYield": -7.56,
-    "marketCap": 1.1,
+    "dividendYield": -6.6,
+    "marketCap": 0.96,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   },
   {
     "symbol": "00111",
     "market": "HK",
     "name": "信达国际控股",
-    "pe": 4.16,
-    "pb": 0.39,
+    "pe": 4.41,
+    "pb": 0.42,
     "roe": 3.4193490375000004,
-    "dividendYield": 4.16,
-    "marketCap": 4.17,
+    "dividendYield": 4.41,
+    "marketCap": 4.42,
     "pePercentile": null,
     "pbPercentile": null,
-    "updateDate": "2026-10-13"
+    "updateDate": "2026-10-14"
   }
 ]
